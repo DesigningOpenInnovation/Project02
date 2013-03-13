@@ -1,7 +1,7 @@
 Project02
 =========
 
-system map
-(It's like cusomer journey map)
+system map(slide04)
 
-Make it Today!!
+
+Stakeholders; Students, UI designer
