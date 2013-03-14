@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="03.design_business.model.canvas.svg"
+   sodipodi:docname="business.model.canvas.svg"
    inkscape:export-filename="../03.design_business.model.canvas.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -431,14 +431,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45991771"
-     inkscape:cx="744.09448"
-     inkscape:cy="526.18109"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="0.48"
+     inkscape:cx="561.1584"
+     inkscape:cy="500.0833"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
      inkscape:window-width="1440"
-     inkscape:window-height="795"
+     inkscape:window-height="806"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -481,7 +481,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -737,14 +737,19 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Semi-Bold"
-       x="494.02298"
-       y="77.952705"
+       x="498.02298"
+       y="51.952705"
        id="text24378"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3866"
-         x="494.02298"
-         y="77.952705">Business Model Canvas</tspan></text>
+         x="498.02298"
+         y="51.952705">Business Model Canvas for</tspan><tspan
+         sodipodi:role="line"
+         x="498.02298"
+         y="90.389694"
+         id="tspan6629"
+         style="font-size:28px;fill:#0000ff">&quot;Organizing for the Unorganized&quot; Open Innovation project</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25202"
@@ -15848,12 +15853,13 @@
          id="tspan25299"
          sodipodi:role="line">Community / Place / Organization</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#808080;stroke-width:0.70866142;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect35241"
        width="248.03149"
        height="478.34647"
-       x="53.149605"
-       y="219.68501" />
+       x="-301.18109"
+       y="-698.03149"
+       transform="scale(-1,-1)" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect35243"
@@ -15871,13 +15877,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot36386"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
          id="flowRegion36388"><rect
            id="rect36390"
            width="236.27409"
            height="468.34775"
            x="58.805996"
-           y="224.87779" /></flowRegion><flowPara
+           y="224.87779"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara36392">Add text here...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36394"
@@ -15888,7 +15895,14 @@
            height="169.06725"
            x="340.23471"
            y="223.8277" /></flowRegion><flowPara
-         id="flowPara36400">Add text here....</flowPara></flowRoot>    <flowRoot
+         id="flowPara36400"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff">Crowdsource innovations for organizing</flowPara><flowPara
+         id="flowPara6513"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff" /><flowPara
+         id="flowPara6515"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff">Auction the innovations to companies &amp; organizations</flowPara><flowPara
+         id="flowPara6517" /><flowPara
+         id="flowPara6519" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36402"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15898,17 +15912,24 @@
            height="189.01927"
            x="339.1846"
            y="506.30649" /></flowRegion><flowPara
-         id="flowPara36408">Add text here...</flowPara></flowRoot>    <flowRoot
+         id="flowPara36408"
+         style="font-size:12px;fill:#0000ff">Open innovation platform such as Github</flowPara><flowPara
+         id="flowPara6605"
+         style="font-size:12px;fill:#0000ff" /><flowPara
+         id="flowPara6607"
+         style="font-size:12px;fill:#0000ff">Auction platform</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36410"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       transform="translate(1.7699115,9.7345133)"><flowRegion
          id="flowRegion36412"><rect
            id="rect36414"
            width="241.52463"
            height="452.59616"
            x="622.7135"
            y="240.62941" /></flowRegion><flowPara
-         id="flowPara36416">Add text here ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara36416"
+         style="font-size:12px;fill:#0000ff">Open innovation project that will produce lots of ideas for companies that can then turn them into products and services.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36418"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15918,7 +15939,16 @@
            height="170.11736"
            x="906.24243"
            y="221.72748" /></flowRegion><flowPara
-         id="flowPara36424">Add text here ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara36424"
+         style="font-size:12px;fill:#0000ff">People who submit their ideas expect to get some sort of creadit</flowPara><flowPara
+         id="flowPara6585"
+         style="font-size:12px;fill:#0000ff" /><flowPara
+         id="flowPara6587"
+         style="font-size:12px;fill:#0000ff">Companies want to be sure that we transfer the IPR to them</flowPara><flowPara
+         id="flowPara6589"
+         style="font-size:12px;fill:#0000ff" /><flowPara
+         id="flowPara6591"
+         style="font-size:12px;fill:#0000ff">Auction partners expect a cut from the sales</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36426"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15928,7 +15958,12 @@
            height="152.26553"
            x="906.24243"
            y="540.96002" /></flowRegion><flowPara
-         id="flowPara36432">Add text here ....</flowPara></flowRoot>    <flowRoot
+         id="flowPara6611"
+         style="font-size:12px;fill:#0000ff">We publish electronic (and physical) posters on campuses to kick off the innovation project.</flowPara><flowPara
+         id="flowPara6617"
+         style="font-size:12px;fill:#0000ff" /><flowPara
+         id="flowPara6619"
+         style="font-size:12px;fill:#0000ff">We reach inventors, companies, and individuals through spreading these posters over social media.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36434"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15938,7 +15973,12 @@
            height="488.2998"
            x="1190.8214"
            y="204.92577" /></flowRegion><flowPara
-         id="flowPara36440">Add text here ....</flowPara></flowRoot>    <flowRoot
+         id="flowPara36440"
+         style="font-size:12px;fill:#0000ff">We create valuable solutions / services to people who are unorganized, but would benefit from organizing their lives better.</flowPara><flowPara
+         style="font-size:12px;fill:#0000ff"
+         id="flowPara6593" /><flowPara
+         style="font-size:12px;fill:#0000ff"
+         id="flowPara6595">IMPORTANT: we want to move away from the thinking that organizing is about using calendars and setting up meetings -- we want solutions that help you get more out of your life WITHOUT having to actively use them.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36442"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15948,7 +15988,8 @@
            height="118.6621"
            x="54.605568"
            y="806.63715" /></flowRegion><flowPara
-         id="flowPara36448">Add text here ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara36448"
+         style="font-size:12px;fill:#0000ff">Cost of services charged by the auction partner?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36450"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15958,5 +15999,88 @@
            height="118.6621"
            x="764.47797"
            y="805.58704" /></flowRegion><flowPara
-         id="flowPara36456">Add text here ...</flowPara></flowRoot>  </g>
+         id="flowPara36456"
+         style="font-size:12px;fill:#0000ff">Revenue is generated in the auction phase:</flowPara><flowPara
+         id="flowPara6621"
+         style="font-size:12px;fill:#0000ff" /><flowPara
+         id="flowPara6623"
+         style="font-size:12px;fill:#0000ff">- Core group gets a small percentage of sold ideas</flowPara><flowPara
+         id="flowPara6625"
+         style="font-size:12px;fill:#0000ff">- Inventors get royalties from the companies who bought their ideas</flowPara><flowPara
+         id="flowPara6627"
+         style="font-size:12px;fill:#0000ff">- Companies get revenue by selling the new products or services</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="159.8112"
+       y="259.8291"
+       id="text6521"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6523"
+         x="159.8112"
+         y="259.8291" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="70.796463"
+       y="250.59227"
+       id="text6565"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6567"
+         x="70.796463"
+         y="250.59227" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="60.176991"
+       y="240.85776"
+       id="text6569"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6571"
+         x="60.176991"
+         y="240.85776"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff">Student communities</tspan><tspan
+         sodipodi:role="line"
+         x="60.176991"
+         y="253.35776"
+         id="tspan6573"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff" /><tspan
+         sodipodi:role="line"
+         x="60.176991"
+         y="265.85776"
+         id="tspan6575"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff">Designers and inventors</tspan><tspan
+         sodipodi:role="line"
+         x="60.176991"
+         y="278.35776"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff"
+         id="tspan6577" /><tspan
+         sodipodi:role="line"
+         x="60.176991"
+         y="290.85776"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff"
+         id="tspan6579">Auction partner who helps selling the IPR</tspan><tspan
+         sodipodi:role="line"
+         x="60.176991"
+         y="303.35776"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff"
+         id="tspan6581" /><tspan
+         sodipodi:role="line"
+         x="60.176991"
+         y="315.85776"
+         style="font-size:12px;-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0000ff"
+         id="tspan6583">SurveyMonkey (for making the idea survey)</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6597"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6599"><rect
+           id="rect6601"
+           width="49.557522"
+           height="56.637169"
+           x="1193.8053"
+           y="227.58342" /></flowRegion><flowPara
+         id="flowPara6603"></flowPara></flowRoot>  </g>
 </svg>
