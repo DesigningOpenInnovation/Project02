@@ -431,14 +431,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48"
-     inkscape:cx="561.1584"
-     inkscape:cy="500.0833"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="1.03"
+     inkscape:cx="1019.4317"
+     inkscape:cy="720.53492"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
      inkscape:window-width="1440"
-     inkscape:window-height="806"
+     inkscape:window-height="852"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -15929,7 +15929,15 @@
            x="622.7135"
            y="240.62941" /></flowRegion><flowPara
          id="flowPara36416"
-         style="font-size:12px;fill:#0000ff">Open innovation project that will produce lots of ideas for companies that can then turn them into products and services.</flowPara></flowRoot>    <flowRoot
+         style="font-size:12px;fill:#0000ff">Open innovation project that will produce pool of ideas about organizing daily life for companies and individuals that can then turn them into products and services.</flowPara><flowPara
+         style="font-size:12px;fill:#0000ff"
+         id="flowPara6552" /><flowPara
+         style="font-size:12px;fill:#0000ff"
+         id="flowPara6548">The project offers open design innovaton platform for designing tailored made solutions for time management. </flowPara><flowPara
+         style="font-size:12px;fill:#0000ff"
+         id="flowPara6554"></flowPara><flowPara
+         style="font-size:12px;fill:#0000ff"
+         id="flowPara6556">IMPORTANT: We want to move away from the thinking that organizing is about using calendars and setting up meetings -- we want solutions that helo you get more out of your life WITHOUT having actively use them. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36418"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15940,7 +15948,7 @@
            x="906.24243"
            y="221.72748" /></flowRegion><flowPara
          id="flowPara36424"
-         style="font-size:12px;fill:#0000ff">People who submit their ideas expect to get some sort of creadit</flowPara><flowPara
+         style="font-size:12px;fill:#0000ff">People who submit their ideas expect to get some sort of credit</flowPara><flowPara
          id="flowPara6585"
          style="font-size:12px;fill:#0000ff" /><flowPara
          id="flowPara6587"
@@ -15976,9 +15984,7 @@
          id="flowPara36440"
          style="font-size:12px;fill:#0000ff">We create valuable solutions / services to people who are unorganized, but would benefit from organizing their lives better.</flowPara><flowPara
          style="font-size:12px;fill:#0000ff"
-         id="flowPara6593" /><flowPara
-         style="font-size:12px;fill:#0000ff"
-         id="flowPara6595">IMPORTANT: we want to move away from the thinking that organizing is about using calendars and setting up meetings -- we want solutions that help you get more out of your life WITHOUT having to actively use them.</flowPara></flowRoot>    <flowRoot
+         id="flowPara6595" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36442"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -16082,5 +16088,16 @@
            height="56.637169"
            x="1193.8053"
            y="227.58342" /></flowRegion><flowPara
-         id="flowPara6603"></flowPara></flowRoot>  </g>
+         id="flowPara6603" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="776.69904"
+       y="497.02237"
+       id="text6558"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6560"
+         x="776.69904"
+         y="497.02237" /></text>
+  </g>
 </svg>
